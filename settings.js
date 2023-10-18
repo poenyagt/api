@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'POENYA'// yourname
-global.MONGO_DB_URI = "mongodb+srv://poenya:<poenya>@cluster0.i7pqm5p.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://poenya:<poenya>@cluster0.xjgq5aw.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "nfia" //isi apa aja bebas
 global.your_email = "poenyagt@gmail.com" //email
 global.email_password = "halu" //application password email
